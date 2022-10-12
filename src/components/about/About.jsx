@@ -33,12 +33,6 @@ const About = () => {
                 Currently in my first posiiton as a web design intern
               </small>
             </article>
-
-            <article className="about__card">
-              <VscFolderLibrary className="about__icon" />
-              <h5>Focus</h5>
-              <small></small>
-            </article>
           </div>
           <p>
             I am a new programmer with an Associate's degree in Software

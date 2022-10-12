@@ -1,6 +1,5 @@
 .about__container {
   display: flex;
-  grid-template-columns: 35% 50%;
   gap: 15%;
   text-align: center;
   position: relative;
@@ -33,7 +32,7 @@
 
 .about__cards {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1.5rem;
 }
 
