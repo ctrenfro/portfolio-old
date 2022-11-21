@@ -23,6 +23,10 @@
 }
 
 .portfolio__item h3 {
+  margin: 1.2rem 0 0.5rem;
+}
+
+.portfolio__item p {
   margin: 1.2rem 0 2rem;
 }
 
